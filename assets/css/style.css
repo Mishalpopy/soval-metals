@@ -3188,7 +3188,7 @@ input, textarea, select {
 @media (min-width: 1200px) {
   .header__one {
     position: fixed;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgb(0, 0, 0);
   }
 }
 .header__one .header__top {
